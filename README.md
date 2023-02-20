@@ -5,7 +5,7 @@
 
 ### 1) Prerequisites:
 
-- Establish a connection to a local MySQL server and ceate a cursor object.
+- Establish a connection to a local MySQL server and create a cursor object.
 - use CRUD operations to create the "Little Lemon" database, create tables and populate them respectively.
 
 ### 2) Creating and establishing the connection pool:
